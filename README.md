@@ -133,11 +133,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/1ff9dc29ef3956cb64dd87852c97d8d3a51ab2bd)** — Generate the profile art here instead of borrowing someone's server _· today_
+- **[axiom-site](https://github.com/OkayAnshul/axiom-site/commit/b2c953f905a32c324cc250e0b535488021d261cf)** — Lead with the AI, since that is the hard part _· today_
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/5293c9e5f9a9587e1db8474ea4c3ed819a8880b0)** — A profile that says what I actually build _· today_
+- **[Voyager](https://github.com/OkayAnshul/Voyager/commit/33d83103c928b7896963cf860d0532f0305e92d0)** — Cut the placeholders that shipped, and the licence badge that lied _· today_
 - **[axiom-site](https://github.com/OkayAnshul/axiom-site/commit/98fb4a6c797dbb940920cf856deff34bbd87f60d)** — Screenshot grid: 2 / 3 / 4 columns instead of auto-fill _· today_
-- **[axiom-site](https://github.com/OkayAnshul/axiom-site/commit/95ace10daa66512fe5fe86f29376a9145a247cd6)** — Screenshots wrap in a grid instead of a horizontal scroller _· today_
-- **[axiom-site](https://github.com/OkayAnshul/axiom-site/commit/736e86ace2eb0ddc9081ad7c1c3e52363d9dd8b0)** — Axiom showcase site: landing page, privacy policy, screenshots _· today_
-- **[voyager-site](https://github.com/OkayAnshul/voyager-site/commit/da783f0bf58b8034c6cadf0ccef92c281a145c58)** — Deepen site content (conceptual): engineering, features, dev-story, landing _· 7 days ago_
-- **[voyager-site](https://github.com/OkayAnshul/voyager-site/commit/a8b4ca193f9a8cd6f9eeabe8155aa1150079cafa)** — Add engineering deep-dive page + architecture diagram; Engineering nav link _· 8 days ago_
 <!--RECENT_COMMITS:END-->
 
 ---
