@@ -59,12 +59,21 @@ watching.
 
 [Site](https://okayanshul.github.io/voyager-site/) · [Repo](https://github.com/OkayAnshul/Voyager)
 
-### 🌌 [Kosmos](https://github.com/OkayAnshul/Kosmos) · project workspaces that survive a tunnel
+### 🌌 [Kosmos](https://okayanshul.github.io/kosmos-architecture/) · project workspaces that survive a tunnel
 
-Tasks, members and chat scoped to a project, in one offline-first Android app. Room-backed
-local state with sync and retry, so the app keeps working when the connection doesn't.
+Tasks, chat and membership scoped to a project, offline-first: every write lands in Room
+before it touches the network, and a queue with exponential backoff reconciles it once the
+connection's back. Two people editing the same task while both are offline don't just get
+last-write-wins — field-level conflict resolution auto-merges disjoint changes and only
+interrupts you when two edits actually collide on the same field.
 
-[Repo](https://github.com/OkayAnshul/Kosmos)
+It's the one app here with a real backend, on purpose — 84.5k lines of Kotlin, 16 Room
+entities across 12 migrations, Postgres/Supabase with Row-Level Security and realtime over
+WebSockets, 26 permissions across 3 roles enforced client-side and again at the database so
+a rebuilt client can't cheat the UI-hidden checks. 112 tests, three-job CI. The deep-dive
+site has the schema and the annotated code for all of it.
+
+[Site](https://okayanshul.github.io/kosmos-architecture/) · [Repo](https://github.com/OkayAnshul/Kosmos)
 
 ---
 
