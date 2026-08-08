@@ -1,15 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1F2430,50:C2410C,100:F59E0B&text=Anshul%20Kumar&fontColor=FFFFFF&fontSize=48&fontAlignY=34&desc=Android%20%C2%B7%20local-first%20%C2%B7%20on-device&descAlignY=54&descSize=15" width="100%" alt="Anshul Kumar — Android, local-first, on-device" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=45&lines=Android+developer;Local-first%2C+on-device%2C+no+servers;Kotlin+%2B+Compose+%E2%80%94+about+32k+lines+of+it" alt="Android developer — local-first, on-device, no servers" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=45&lines=Android+developer;Local-first%2C+on-device%2C+offline-first;Kotlin+%2B+Compose+%E2%80%94+well+past+100k+lines+of+it" alt="Android developer — local-first, on-device, offline-first" />
 </p>
 
-I build Android apps that work without a server. Right now that's a journal with a companion
-that remembers you, and a travel log that rebuilds your day from raw GPS — both entirely
-on-device, both with no account to sign up for.
+I build Android apps that keep working when the network doesn't. Right now that's a journal
+with a companion that remembers you and a travel log that rebuilds your day from raw GPS —
+both entirely on-device, both with no account to sign up for — plus a team workspace that
+does have a backend, because collaboration needs one, and that turned out to be its own kind
+of hard.
 
-I like the constraint. Taking the network away forces you to actually solve the problem
-instead of posting it to an endpoint and hoping.
+I like the constraint in both directions. Taking the network away forces you to actually
+solve the problem instead of posting it to an endpoint and hoping. Putting it back means you
+own every way two people's edits can collide.
 
 Bhubaneswar, Odisha, India.
 
@@ -112,6 +115,65 @@ More on all of this at [the Axiom site](https://okayanshul.github.io/axiom-site/
 </details>
 
 <details>
+<summary><b>What Kosmos looks like underneath</b> — schema, sync, and the migration that bit me</summary>
+
+<br/>
+
+The shape of it, trimmed to the entities that carry the app — there are sixteen in total,
+across twelve migrations:
+
+```mermaid
+erDiagram
+    USER      ||--o{ PROJECT_MEMBER  : "belongs to"
+    PROJECT   ||--o{ PROJECT_MEMBER  : "has"
+    PROJECT   ||--o{ CHAT_ROOM       : contains
+    PROJECT   ||--o{ TASK            : contains
+    CHAT_ROOM ||--o{ MESSAGE         : holds
+    USER      ||--o{ MESSAGE         : sends
+    USER      |o--o{ TASK            : "assigned to"
+    TASK      ||--o{ TASK_ACTIVITY   : "audit trail"
+    TASK      ||--o{ TASK_DEPENDENCY : blocks
+    MESSAGE   ||--o| VOICE_MESSAGE   : "may attach"
+```
+
+**The write path.** Every write hits Room first and returns; the network call is best-effort
+after the fact. When it fails, the operation lands in a queue with exponential backoff —
+`min(60s, 2^retryCount)`, five attempts — that drains when connectivity comes back. The
+subtlety is that a retry can't replay the payload it captured at enqueue time: if a task sat
+offline for an hour and got edited twice more locally, that stale JSON would clobber the newer
+edits. Updates re-read current state from Room immediately before sending.
+
+**Field-level conflict resolution.** Row-level last-write-wins throws away real work — one
+person changes the status, another changes the description, and whoever's write lands second
+silently wins the whole row. So resolution happens per field across the nine that matter. Two
+edits that don't overlap auto-merge with no prompt. Only a genuine collision on the same field,
+inside a five-second window, is worth interrupting someone for.
+
+**The migration that bit me.** Room's `OnConflictStrategy.REPLACE` is a DELETE followed by an
+INSERT, which means every `CASCADE` foreign key fires on a routine sync upsert. Rows were
+disappearing on writes that looked like plain updates. The fix was migration 9→10: recreate six
+tables with `NO_ACTION` instead — SQLite can't drop a constraint, so it's build-new, copy,
+drop, rename, six times over. Audit tables lost their actor foreign key entirely; a log of what
+happened shouldn't fail to insert because the user who did it isn't cached locally yet.
+
+**Permissions, enforced twice.** Twenty-six of them across three roles. A `PermissionGated`
+composable hides what you can't do, which is a UI nicety and nothing more — the real gate is
+Row-Level Security in Postgres, so a rebuilt client that skips the composable still can't write
+rows it doesn't own. Cross-user writes that are genuinely legitimate, like inserting a
+notification for someone else, go through a narrow `SECURITY DEFINER` function rather than
+loosening the policy for everyone.
+
+**Realtime.** Three separate `ConcurrentHashMap` channel pools over Supabase Realtime, keyed per
+resource, for messages, tasks and membership. They're separate because they were briefly not:
+typing indicators and messages shared a map key, the duplicate-guard quietly won, and typing
+events never fired at all. Channel keys need a namespace per subscription type, not just per
+resource id.
+
+Schema, diagrams and annotated code at [the Kosmos site](https://okayanshul.github.io/kosmos-architecture/).
+
+</details>
+
+<details>
 <summary><b>What I keep coming back to</b></summary>
 
 <br/>
@@ -174,8 +236,9 @@ on a third party's free tier staying free.
 
 Kotlin, almost exclusively — it's 100% of both Axiom and Voyager by GitHub's own count. Jetpack
 Compose with Material 3, Hilt, Room, WorkManager, DataStore, Glance for widgets, Ktor and
-kotlinx.serialization. R8 with hand-written keep rules. Enough Python to be dangerous in a
-Jupyter notebook.
+kotlinx.serialization. R8 with hand-written keep rules. Where there is a backend it's Postgres
+on Supabase — schema, row-level security policies and realtime channels written by hand, not
+generated. Enough Python to be dangerous in a Jupyter notebook.
 
 ### Elsewhere
 
