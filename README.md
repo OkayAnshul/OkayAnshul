@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=45&lines=Android+developer;Local-first%2C+on-device%2C+offline-first;Kotlin+%2B+Compose+%E2%80%94+well+past+100k+lines+of+it" alt="Android developer — local-first, on-device, offline-first" />
 </p>
 
-I build Android apps that keep working when the network doesn't. Right now that's a journal
-with a companion that remembers you and a travel log that rebuilds your day from raw GPS —
-both entirely on-device, both with no account to sign up for — plus a team workspace that
-does have a backend, because collaboration needs one, and that turned out to be its own kind
-of hard.
+### I build Android apps that keep working when the network doesn't. Right now that's a journal
+### with a companion that remembers you and a travel log that rebuilds your day from raw GPS —
+### both entirely on-device, both with no account to sign up for — plus a team workspace that
+### does have a backend, because collaboration needs one, and that turned out to be its own kind
+### of hard.
 
-I like the constraint in both directions. Taking the network away forces you to actually
-solve the problem instead of posting it to an endpoint and hoping. Putting it back means you
-own every way two people's edits can collide.
+### I like the constraint in both directions. Taking the network away forces you to actually
+### solve the problem instead of posting it to an endpoint and hoping. Putting it back means you
+### own every way two people's edits can collide. 
 
 Bhubaneswar, Odisha, India.
 
