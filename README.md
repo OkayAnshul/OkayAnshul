@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/667a7e61472aa1d751e2920efddc2c20643e87de)** — Point at the art now that it exists _· today_
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/796271c60382e11564bcd35a1d893b9249a89541)** — The 3d-contrib tag is v0.9.3, not 0.9.3 _· today_
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/1ff9dc29ef3956cb64dd87852c97d8d3a51ab2bd)** — Generate the profile art here instead of borrowing someone's server _· today_
-- **[axiom-site](https://github.com/OkayAnshul/axiom-site/commit/b2c953f905a32c324cc250e0b535488021d261cf)** — Lead with the AI, since that is the hard part _· today_
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/5293c9e5f9a9587e1db8474ea4c3ed819a8880b0)** — A profile that says what I actually build _· today_
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/52bd8908d2f74dd19e0c25e640e795a84bb40720)** — Remove header formatting from README.md _· today_
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/3e72960c0f08602e26168dc6ba4bce294a9abad2)** — Refactor README content with headings _· today_
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/1297daaf102369b5d8e0e526cef7594f6f90aae5)** — Give Kosmos the same depth Axiom and Voyager already had _· today_
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/6070c52f4a97795394c9a9a7402440063761274d)** — Bring Kosmos up to par with Axiom and Voyager's write-ups _· today_
+- **[Kosmos](https://github.com/OkayAnshul/Kosmos/commit/6cedd3e4e4416829e1ac0908f6028b106586c1a0)** — docs: sharpen README for recruiter/Android-dev audience, drop interview prep link _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
