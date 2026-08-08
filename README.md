@@ -133,11 +133,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/667a7e61472aa1d751e2920efddc2c20643e87de)** — Point at the art now that it exists _· today_
+- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/796271c60382e11564bcd35a1d893b9249a89541)** — The 3d-contrib tag is v0.9.3, not 0.9.3 _· today_
 - **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/1ff9dc29ef3956cb64dd87852c97d8d3a51ab2bd)** — Generate the profile art here instead of borrowing someone's server _· today_
 - **[axiom-site](https://github.com/OkayAnshul/axiom-site/commit/b2c953f905a32c324cc250e0b535488021d261cf)** — Lead with the AI, since that is the hard part _· today_
 - **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/5293c9e5f9a9587e1db8474ea4c3ed819a8880b0)** — A profile that says what I actually build _· today_
-- **[Voyager](https://github.com/OkayAnshul/Voyager/commit/33d83103c928b7896963cf860d0532f0305e92d0)** — Cut the placeholders that shipped, and the licence badge that lied _· today_
-- **[axiom-site](https://github.com/OkayAnshul/axiom-site/commit/98fb4a6c797dbb940920cf856deff34bbd87f60d)** — Screenshot grid: 2 / 3 / 4 columns instead of auto-fill _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
