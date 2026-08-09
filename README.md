@@ -208,7 +208,7 @@ a phone before it's genuinely too small for the problem.
 - **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/3e72960c0f08602e26168dc6ba4bce294a9abad2)** — Refactor README content with headings _· today_
 - **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/1297daaf102369b5d8e0e526cef7594f6f90aae5)** — Give Kosmos the same depth Axiom and Voyager already had _· today_
 - **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/6070c52f4a97795394c9a9a7402440063761274d)** — Bring Kosmos up to par with Axiom and Voyager's write-ups _· today_
-- **[Kosmos](https://github.com/OkayAnshul/Kosmos/commit/6cedd3e4e4416829e1ac0908f6028b106586c1a0)** — docs: sharpen README for recruiter/Android-dev audience, drop interview prep link _· today_
+- **[Kosmos](https://github.com/OkayAnshul/Kosmos/commit/cae1990d9b6249b3525db1a3e62655505d1b8ce3)** — docs: sharpen README for recruiter/Android-dev audience, drop interview prep link _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
