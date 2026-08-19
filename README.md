@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/52bd8908d2f74dd19e0c25e640e795a84bb40720)** — Remove header formatting from README.md _· 10 days ago_
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/3e72960c0f08602e26168dc6ba4bce294a9abad2)** — Refactor README content with headings _· 10 days ago_
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/1297daaf102369b5d8e0e526cef7594f6f90aae5)** — Give Kosmos the same depth Axiom and Voyager already had _· 10 days ago_
-- **[OkayAnshul](https://github.com/OkayAnshul/OkayAnshul/commit/6070c52f4a97795394c9a9a7402440063761274d)** — Bring Kosmos up to par with Axiom and Voyager's write-ups _· 10 days ago_
-- **[Kosmos](https://github.com/OkayAnshul/Kosmos/commit/cae1990d9b6249b3525db1a3e62655505d1b8ce3)** — docs: sharpen README for recruiter/Android-dev audience, drop interview prep link _· 10 days ago_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/00a508113458c9d0545f42a3ee609b1112eec8f3)** — The navigation bar was wearing the wallpaper _· today_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/4aa69e72fec84e54c448950fb2779d36d9f34f4c)** — README _· today_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/319dc344862408b6efcde7cb087e94376f2c35a4)** — Keep business strategy out of the published repo _· today_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/62cbd8770a903247a54266dbbc7f9e46a5550d75)** — Docs: stop asserting decisions the code no longer follows _· yesterday_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/db532ca9ebccb853b90b5d5a132653dcd812712e)** — Duplicates are a decision now, not a warning (FR-6.5) _· yesterday_
 <!--RECENT_COMMITS:END-->
 
 ---
