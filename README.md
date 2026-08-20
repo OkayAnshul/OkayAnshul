@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/00a508113458c9d0545f42a3ee609b1112eec8f3)** — The navigation bar was wearing the wallpaper _· today_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/4aa69e72fec84e54c448950fb2779d36d9f34f4c)** — README _· today_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/319dc344862408b6efcde7cb087e94376f2c35a4)** — Keep business strategy out of the published repo _· today_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/62cbd8770a903247a54266dbbc7f9e46a5550d75)** — Docs: stop asserting decisions the code no longer follows _· yesterday_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/db532ca9ebccb853b90b5d5a132653dcd812712e)** — Duplicates are a decision now, not a warning (FR-6.5) _· yesterday_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/00a508113458c9d0545f42a3ee609b1112eec8f3)** — The navigation bar was wearing the wallpaper _· yesterday_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/4aa69e72fec84e54c448950fb2779d36d9f34f4c)** — README _· yesterday_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/319dc344862408b6efcde7cb087e94376f2c35a4)** — Keep business strategy out of the published repo _· yesterday_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/62cbd8770a903247a54266dbbc7f9e46a5550d75)** — Docs: stop asserting decisions the code no longer follows _· 2 days ago_
+- **[docaction](https://github.com/OkayAnshul/docaction/commit/db532ca9ebccb853b90b5d5a132653dcd812712e)** — Duplicates are a decision now, not a warning (FR-6.5) _· 2 days ago_
 <!--RECENT_COMMITS:END-->
 
 ---
