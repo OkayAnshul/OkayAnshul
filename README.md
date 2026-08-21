@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/663b68046abd88fc6f011a336f3988e2aaa67e2b)** — Wire the gate to the ledger, and make replay checkable _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/a5ef46f421bfd919592fec1a559776c3dd42990e)** — Add the gate: binding, deterministic checks, substitution, pure decide() _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/b5e662b21e6ffc2a6a9e4198c4a391ba0092491d)** — Update the settlement integration tests to the corrected lifecycle _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/91dc74f4149b543cdb8eccdddb7becba311e8f9a)** — Reshape the payment interface around the real provider, and close the loop _· today_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/3a3dd75e51494e9d1b795175d7b3cc8b36d3d8b3)** — Add the intent parser and a deliberately naive reference buyer _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/3872f51a52334c84cac3998effc0153d8a8ae990)** — Ingest a real messy catalog end to end _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/27a896f919550c2350715a68403c26d3e52ed46f)** — Add unit normalisation and the attribute taxonomy _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/7975e9c4aaf374884e974b5bd4285db642074cba)** — Define the data contracts before writing logic against them _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/f0c6274dd9ea28d246864b028f8b90d41e6f2a29)** — Log the day 1 failures _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
