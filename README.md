@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/3a3dd75e51494e9d1b795175d7b3cc8b36d3d8b3)** — Add the intent parser and a deliberately naive reference buyer _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/3872f51a52334c84cac3998effc0153d8a8ae990)** — Ingest a real messy catalog end to end _· today_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/27a896f919550c2350715a68403c26d3e52ed46f)** — Add unit normalisation and the attribute taxonomy _· today_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/7975e9c4aaf374884e974b5bd4285db642074cba)** — Define the data contracts before writing logic against them _· today_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/f0c6274dd9ea28d246864b028f8b90d41e6f2a29)** — Log the day 1 failures _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/18776f050bb03d32ac5be25fa91b638e91e1af46)** — Wire settlement end to end, and open the living documents _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/f9515f37ade001d62c408fdbf627720072b4e192)** — Put the payment provider behind a Protocol with a shared contract suite _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
