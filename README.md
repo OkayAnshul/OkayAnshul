@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/00a508113458c9d0545f42a3ee609b1112eec8f3)** — The navigation bar was wearing the wallpaper _· yesterday_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/4aa69e72fec84e54c448950fb2779d36d9f34f4c)** — README _· yesterday_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/319dc344862408b6efcde7cb087e94376f2c35a4)** — Keep business strategy out of the published repo _· yesterday_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/62cbd8770a903247a54266dbbc7f9e46a5550d75)** — Docs: stop asserting decisions the code no longer follows _· 2 days ago_
-- **[docaction](https://github.com/OkayAnshul/docaction/commit/db532ca9ebccb853b90b5d5a132653dcd812712e)** — Duplicates are a decision now, not a warning (FR-6.5) _· 2 days ago_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/27a896f919550c2350715a68403c26d3e52ed46f)** — Add unit normalisation and the attribute taxonomy _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/7975e9c4aaf374884e974b5bd4285db642074cba)** — Define the data contracts before writing logic against them _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/f0c6274dd9ea28d246864b028f8b90d41e6f2a29)** — Log the day 1 failures _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/18776f050bb03d32ac5be25fa91b638e91e1af46)** — Wire settlement end to end, and open the living documents _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/f9515f37ade001d62c408fdbf627720072b4e192)** — Put the payment provider behind a Protocol with a shared contract suite _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
