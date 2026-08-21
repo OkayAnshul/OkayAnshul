@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/663b68046abd88fc6f011a336f3988e2aaa67e2b)** — Wire the gate to the ledger, and make replay checkable _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/a5ef46f421bfd919592fec1a559776c3dd42990e)** — Add the gate: binding, deterministic checks, substitution, pure decide() _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/b5e662b21e6ffc2a6a9e4198c4a391ba0092491d)** — Update the settlement integration tests to the corrected lifecycle _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/91dc74f4149b543cdb8eccdddb7becba311e8f9a)** — Reshape the payment interface around the real provider, and close the loop _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/3a3dd75e51494e9d1b795175d7b3cc8b36d3d8b3)** — Add the intent parser and a deliberately naive reference buyer _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/ae6c9fd774f17effa4b182c5b522792afb2decb3)** — Add the submission form draft _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/29e5dcc413eb9c04628ff8c9609eef679cb756d8)** — Second pass on the 30 judgment labels, and what it demonstrated _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/6c7158b1868b127386a0c3f4fe19fa9719c4e1fd)** — Make the eval package path explicit rather than incidental _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/70787017b0530dedd8e25da7251686ad9839155b)** — Add CI, a Makefile, and panel-round notes _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/e99f953e821c74717288114b8170770799f83667)** — Add the label review workflow, and attribution for reviewed labels _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
