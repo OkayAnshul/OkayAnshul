@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/9682121ca6b75f3010a4106e75ffa6da3a1ea913)** — Build the fixture recorder, so replayed answers can be real ones _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/b4b5e73696675f089d927fcc1a81d50eab92220b)** — Add a Groq intent parser, and show position #1 in the demo _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/1c8e97719c3faa08f39f98c777f9bfa2732b0413)** — Add a second scorer, to make swappability structural _· today_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/d216e724bf25568ccd03c355d21e46c49c060400)** — Serve the page a payer completes an order on, and verify its callback _· 8 days ago_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/f9d66742fff89b245f821ae153c434d33a6f25b6)** — Reposition on the track's own words, and put the model on camera _· 8 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/a7ead93e0a1834c97e776e03f79d5a3f568716d6)** — Measure what Custodian saves, and what it costs _· 8 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/35528ba843f75bebd02cf33a8b50be9c12043960)** — Correct a fabricated timeline in the engineering record _· 8 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/ae6c9fd774f17effa4b182c5b522792afb2decb3)** — Add the submission form draft _· 8 days ago_
 <!--RECENT_COMMITS:END-->
 
 ---
