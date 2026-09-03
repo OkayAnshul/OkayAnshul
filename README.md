@@ -206,8 +206,8 @@ a phone before it's genuinely too small for the problem.
 <!--RECENT_COMMITS:START-->
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/f9d34041256b2b66dc2fe3bd4252cf807800bd05)** — Record 28 real model responses, and fix what they exposed _· 3 days ago_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/9682121ca6b75f3010a4106e75ffa6da3a1ea913)** — Build the fixture recorder, so replayed answers can be real ones _· 3 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/b4b5e73696675f089d927fcc1a81d50eab92220b)** — Add a Groq intent parser, and show position #1 in the demo _· 3 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/1c8e97719c3faa08f39f98c777f9bfa2732b0413)** — Add a second scorer, to make swappability structural _· 3 days ago_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/b4b5e73696675f089d927fcc1a81d50eab92220b)** — Add a Groq intent parser, and show position #1 in the demo _· 4 days ago_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/1c8e97719c3faa08f39f98c777f9bfa2732b0413)** — Add a second scorer, to make swappability structural _· 4 days ago_
 - **[custodian](https://github.com/OkayAnshul/custodian/commit/d216e724bf25568ccd03c355d21e46c49c060400)** — Serve the page a payer completes an order on, and verify its callback _· 12 days ago_
 <!--RECENT_COMMITS:END-->
 
