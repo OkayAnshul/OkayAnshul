@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/f9d34041256b2b66dc2fe3bd4252cf807800bd05)** — Record 28 real model responses, and fix what they exposed _· 4 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/9682121ca6b75f3010a4106e75ffa6da3a1ea913)** — Build the fixture recorder, so replayed answers can be real ones _· 4 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/b4b5e73696675f089d927fcc1a81d50eab92220b)** — Add a Groq intent parser, and show position #1 in the demo _· 4 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/1c8e97719c3faa08f39f98c777f9bfa2732b0413)** — Add a second scorer, to make swappability structural _· 4 days ago_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/d216e724bf25568ccd03c355d21e46c49c060400)** — Serve the page a payer completes an order on, and verify its callback _· 12 days ago_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/fbdad509e507971a30c98accd420ebf1ec6ffb66)** — Put the two newest failures in front of a reader _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/0c9eb9a86598797bcfb226cf3fc68af65b8cffee)** — Correct three counts the documents had never counted _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/6e648a6fb6c966d0813784f3d6d4c74fe0ba1b84)** — Run every demo path for real, and fix what that exposed _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/829bdf71644bf0e6720cb85977601159c7809dbc)** — feat(persistence): V0.3 — durable runs and execution trace _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/f9ba2927c44a1d193c4cd054da2d89fb7dd7aa70)** — docs(v0.3): deployment, interview questions and session findings _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
