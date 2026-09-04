@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/0fdf2aa0a71fd8c04067fde6131328ffdcd29321)** — Redesign the pitch so all three surfaces earn their minutes _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/c59cbc4755fe78c036942980ca59fce57b596a3f)** — Make the two stray timings agree with the measured one _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/d837c10c3bb7d50e2f06d224660671ab5920f0ae)** — Rewrite the script as something you perform, not just read _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/03ff0155e4f743fc943b1bfc88a1e55d46130cef)** — Align the pitch with the criteria the brief actually publishes _· today_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/4a1036d9adc0ecdae2e01b86f7d86ecd966ad04e)** — Add the whole loop, live, ending in a real payment _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/e179f9c954dce48c827c8f0fe919ed452d08ed84)** — Align the pitch, both sites and the README to the track's own words _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/6e2fcc202dccf0828b12e893824f694ef30f16be)** — Cut the pitch to 5:47, and make the growth case explicit _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/1c36260b48bf54bd15008bbecee0584ad4ac898d)** — Open on why this matters to Razorpay specifically _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/bb6d5a708c06d689f1eb80c2cf7e7a58a9d1e5a2)** — Open with what it is, then why it is hard _· today_
+- **[custodian](https://github.com/OkayAnshul/custodian/commit/773a54c9a87c111df35ad6b03751312051db7e5c)** — Teach the architecture as clauses, not as a diagram _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
