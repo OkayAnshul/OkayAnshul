@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/e179f9c954dce48c827c8f0fe919ed452d08ed84)** — Align the pitch, both sites and the README to the track's own words _· yesterday_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/6e2fcc202dccf0828b12e893824f694ef30f16be)** — Cut the pitch to 5:47, and make the growth case explicit _· yesterday_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/1c36260b48bf54bd15008bbecee0584ad4ac898d)** — Open on why this matters to Razorpay specifically _· yesterday_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/bb6d5a708c06d689f1eb80c2cf7e7a58a9d1e5a2)** — Open with what it is, then why it is hard _· yesterday_
-- **[custodian](https://github.com/OkayAnshul/custodian/commit/773a54c9a87c111df35ad6b03751312051db7e5c)** — Teach the architecture as clauses, not as a diagram _· yesterday_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ea85b37ac1e819feb8d82103363741e58f84b4ef)** — feat(rag): V0.5 — retrieval pipeline over pgvector _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5003e1ebe2cae1ad48048530c727534b329febf5)** — docs(v0.5): RAG architecture with measured numbers, and how the metric misled _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/939fac99d8dd04c9ffd35e4c3cea93bc957b4d6b)** — feat(rag): add retrieval pipeline over pgvector _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5c20c8c9f0d99f1961e6b901f6412f33bb508868)** — feat(orchestration): V0.4 — planner, executor and task state machine _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/8bea8764d0512532b74614a7bee671ea19812ca4)** — docs(v0.4): orchestration, failure recovery and interview questions _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
