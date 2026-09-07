@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/36aaca2bfdd1ecd67c46d56c6b2fd6a1d22f2119)** — docs: add the complete study plan — prerequisites, architecture, algorithms _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ea85b37ac1e819feb8d82103363741e58f84b4ef)** — feat(rag): V0.5 — retrieval pipeline over pgvector _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5003e1ebe2cae1ad48048530c727534b329febf5)** — docs(v0.5): RAG architecture with measured numbers, and how the metric misled _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/939fac99d8dd04c9ffd35e4c3cea93bc957b4d6b)** — feat(rag): add retrieval pipeline over pgvector _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5c20c8c9f0d99f1961e6b901f6412f33bb508868)** — feat(orchestration): V0.4 — planner, executor and task state machine _· yesterday_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/36aaca2bfdd1ecd67c46d56c6b2fd6a1d22f2119)** — docs: add the complete study plan — prerequisites, architecture, algorithms _· 2 days ago_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ea85b37ac1e819feb8d82103363741e58f84b4ef)** — feat(rag): V0.5 — retrieval pipeline over pgvector _· 2 days ago_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5003e1ebe2cae1ad48048530c727534b329febf5)** — docs(v0.5): RAG architecture with measured numbers, and how the metric misled _· 2 days ago_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/939fac99d8dd04c9ffd35e4c3cea93bc957b4d6b)** — feat(rag): add retrieval pipeline over pgvector _· 2 days ago_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5c20c8c9f0d99f1961e6b901f6412f33bb508868)** — feat(orchestration): V0.4 — planner, executor and task state machine _· 2 days ago_
 <!--RECENT_COMMITS:END-->
 
 ---
