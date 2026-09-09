@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5af0e002d527fc56b432684345b100d31a488efa)** — fix: version drift, and record the remember_fact unreliability _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/6f22f2883a86d3b393f778b2d95addce054b3807)** — docs: record that remember_fact is called unreliably _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ea906bd487e3dae0d928c4c02a01b145bcdba346)** — fix: version reported 0.7.0 from a v1.0 build _· today_
 - **[AMOS](https://github.com/OkayAnshul/AMOS/commit/6c48125b0a2913b746d50ebc99c03f69ecb6b299)** — feat(evaluation): V1.0 — evaluation harness and CI _· today_
 - **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7019cefc345f1cb60fd91dc1c279bb6d0625aa61)** — docs(v1.0): current-state and session log — roadmap complete _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/466351f046dd1fa69dab8bd47ecb211d073b980d)** — docs(v1.0): resume evidence and README — the roadmap is complete _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/2de1b72f1a96f5126940d1ac25fe23bf4390ba95)** — docs: evaluation interview doc and journal chapter 11 _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/68200c722318d6b51088f68ab6e54afafd5204bf)** — docs(v1.0): evaluation, with measured numbers and two findings _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
