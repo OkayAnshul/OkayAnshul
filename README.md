@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/36aaca2bfdd1ecd67c46d56c6b2fd6a1d22f2119)** — docs: add the complete study plan — prerequisites, architecture, algorithms _· 3 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ea85b37ac1e819feb8d82103363741e58f84b4ef)** — feat(rag): V0.5 — retrieval pipeline over pgvector _· 3 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5003e1ebe2cae1ad48048530c727534b329febf5)** — docs(v0.5): RAG architecture with measured numbers, and how the metric misled _· 3 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/939fac99d8dd04c9ffd35e4c3cea93bc957b4d6b)** — feat(rag): add retrieval pipeline over pgvector _· 3 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5c20c8c9f0d99f1961e6b901f6412f33bb508868)** — feat(orchestration): V0.4 — planner, executor and task state machine _· 3 days ago_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/6c48125b0a2913b746d50ebc99c03f69ecb6b299)** — feat(evaluation): V1.0 — evaluation harness and CI _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7019cefc345f1cb60fd91dc1c279bb6d0625aa61)** — docs(v1.0): current-state and session log — roadmap complete _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/466351f046dd1fa69dab8bd47ecb211d073b980d)** — docs(v1.0): resume evidence and README — the roadmap is complete _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/2de1b72f1a96f5126940d1ac25fe23bf4390ba95)** — docs: evaluation interview doc and journal chapter 11 _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/68200c722318d6b51088f68ab6e54afafd5204bf)** — docs(v1.0): evaluation, with measured numbers and two findings _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
