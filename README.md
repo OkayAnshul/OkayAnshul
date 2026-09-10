@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5af0e002d527fc56b432684345b100d31a488efa)** — fix: version drift, and record the remember_fact unreliability _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/6f22f2883a86d3b393f778b2d95addce054b3807)** — docs: record that remember_fact is called unreliably _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ea906bd487e3dae0d928c4c02a01b145bcdba346)** — fix: version reported 0.7.0 from a v1.0 build _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/6c48125b0a2913b746d50ebc99c03f69ecb6b299)** — feat(evaluation): V1.0 — evaluation harness and CI _· yesterday_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7019cefc345f1cb60fd91dc1c279bb6d0625aa61)** — docs(v1.0): current-state and session log — roadmap complete _· yesterday_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/c25306d8c373d402a54b6353dde355379eef5c71)** — docs(build-along): a file-by-file guide to writing AMOS by hand _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/9cbba69ddbd7bba4d34867cdbca349b3f5a7ddc7)** — docs: link the build-along guide from README and current-state _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/78181dcd6ffa4dfff94feb13444aa5c53d5fb5d4)** — docs(build-along): V1.0 evaluation _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/02e41f1e47d3fa8b3d55c17dae09c819028fe422)** — docs(build-along): V0.9 observability _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/bcd4ff55f0d398c4d03b23c80b062f1186fa240c)** — docs(build-along): V0.8 async execution _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
