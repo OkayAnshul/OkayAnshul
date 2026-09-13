@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/c25306d8c373d402a54b6353dde355379eef5c71)** — docs(build-along): a file-by-file guide to writing AMOS by hand _· 2 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/9cbba69ddbd7bba4d34867cdbca349b3f5a7ddc7)** — docs: link the build-along guide from README and current-state _· 2 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/78181dcd6ffa4dfff94feb13444aa5c53d5fb5d4)** — docs(build-along): V1.0 evaluation _· 2 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/02e41f1e47d3fa8b3d55c17dae09c819028fe422)** — docs(build-along): V0.9 observability _· 2 days ago_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/bcd4ff55f0d398c4d03b23c80b062f1186fa240c)** — docs(build-along): V0.8 async execution _· 2 days ago_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/05dfd9bef0242f02d9e47eee7c2bde73386785fa)** — docs(current-state): the recovery document, updated last _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/a58d5a4266ef4e567dbc4b1a2856829747d243be)** — docs: the engineering logs, six milestones behind _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/da58d897e7179bec482772628fd7c5501f720997)** — docs: numbers that were mechanically checkable and mechanically wrong _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/3f4129c09b22311b12e0ed374bf01f427f3f37a5)** — docs: stale status text, and the glossary that was never written _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/473251aaa9bc2baca56fffad533148cfe7ce28f4)** — docs: five documents that taught things the code contradicts _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
