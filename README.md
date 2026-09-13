@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/05dfd9bef0242f02d9e47eee7c2bde73386785fa)** — docs(current-state): the recovery document, updated last _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/a58d5a4266ef4e567dbc4b1a2856829747d243be)** — docs: the engineering logs, six milestones behind _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/da58d897e7179bec482772628fd7c5501f720997)** — docs: numbers that were mechanically checkable and mechanically wrong _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/3f4129c09b22311b12e0ed374bf01f427f3f37a5)** — docs: stale status text, and the glossary that was never written _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/473251aaa9bc2baca56fffad533148cfe7ce28f4)** — docs: five documents that taught things the code contradicts _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/622cb26e748262f678cb6d1adf36146d4ddc16ba)** — docs: record destroying the local corpus, and why no backup existed _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/745ed266c15d4a60e6929d27fa0116c27e40d7c3)** — chore: version 1.4.0 _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7ebee733921b1d0f80f1b7b542d0df8888f3a2fc)** — docs(v1.4): the reversal on the record, and what "we have auth" does not mean _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/b78ef2528800e1261e2d718bb06ea8de5239ce89)** — feat(security): authentication and multi-user isolation _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/a46c8371f22f839bf04123be611958428681dabb)** — fix(make): release tolerates the version already being at target _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
