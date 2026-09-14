@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/00692a75c96219ea7dd673bc5d1b74bbf7fda685)** — docs: add Phase 0 learning logs and synthetic quickstart _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/8ce2a5c4ef0bbe7b6436a8a243473ca092105427)** — feat: add rules baseline and EDA report _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/7fcf67f9c05d78d959541f49a06a04b4dae82eaa)** — feat: add synthetic transaction generator _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/81d3827e1438f60cf192e7d01771ca65b3842a41)** — feat: add point-in-time card velocity features (ADR-003, ADR-004) _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/f45fbfcd76814ff05f5db194a884ad78858b56d4)** — feat: add evaluation harness with monetary loss (ADR-005) _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/4bafa899298abeb8b8bcfb2e7e5c2c00ecc8846b)** — test: run batch/stream parity against Redpanda and Redis in CI _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/d8c41c807ac798c8ed40aa89b04fa6947c852ac8)** — feat: add event-time replay, Redpanda producer and streaming feature builder _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/e941f73908875ce9d78f5a37e177dde75f8b839b)** — feat: add Redis online feature store with exact batch parity (ADR-004) _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/456935ae6080ef360856a1093a16b817f90e117d)** — docs: add Phase 1 learning logs and update project status _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/5383b9b2d26a262f9e61fd593942722cce6bfc30)** — docs: re-measure Phase 0 learning-log examples on the revised generator _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
