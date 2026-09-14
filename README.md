@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/622cb26e748262f678cb6d1adf36146d4ddc16ba)** — docs: record destroying the local corpus, and why no backup existed _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/745ed266c15d4a60e6929d27fa0116c27e40d7c3)** — chore: version 1.4.0 _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7ebee733921b1d0f80f1b7b542d0df8888f3a2fc)** — docs(v1.4): the reversal on the record, and what "we have auth" does not mean _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/b78ef2528800e1261e2d718bb06ea8de5239ce89)** — feat(security): authentication and multi-user isolation _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/a46c8371f22f839bf04123be611958428681dabb)** — fix(make): release tolerates the version already being at target _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/00692a75c96219ea7dd673bc5d1b74bbf7fda685)** — docs: add Phase 0 learning logs and synthetic quickstart _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/8ce2a5c4ef0bbe7b6436a8a243473ca092105427)** — feat: add rules baseline and EDA report _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/7fcf67f9c05d78d959541f49a06a04b4dae82eaa)** — feat: add synthetic transaction generator _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/81d3827e1438f60cf192e7d01771ca65b3842a41)** — feat: add point-in-time card velocity features (ADR-003, ADR-004) _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/f45fbfcd76814ff05f5db194a884ad78858b56d4)** — feat: add evaluation harness with monetary loss (ADR-005) _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
