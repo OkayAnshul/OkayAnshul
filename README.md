@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/395911230ceb6338542bc3171f8f5b146adc13b5)** — fix(serving): answer 503 when the online store is unavailable _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/083d588fb0c305b531539c8d9acc3501ee322d7c)** — perf(features): evaluate all windows of a feature group in one pass _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/ff112b1a8b8918b78274e91d30351cd9710a943a)** — feat(bench): load-test and profile the scoring service _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/0e242658da33b5e285e06cab81e46cf4d99f21fd)** — feat: register models in MLflow with champion and challenger aliases _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/f5d0d577c3c2aabca6febb45e024fec866283a63)** — feat: add FastAPI scoring service with exact offline parity _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/b7de46744e5401980181131f63d74ee8252dfd54)** — fix(tests): skip the console page tests without the console extra _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/62176255c65c440653d949c63f0a34e1351cf146)** — docs: publish scoring latency with the policy engine _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/888910e3fc352a717e61aa8e5c360e166c2f20db)** — feat(console): analyst console, decision store and compose demo _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/ec554758e8af397cf1e9343a26cf79fc020d7d0e)** — feat(serving): decide approve, review or block in the scoring service _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/4ab178ab9b34efed7f18500598f04a4ac15739f4)** — feat(policy): sweep the review budget offline and report it _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
