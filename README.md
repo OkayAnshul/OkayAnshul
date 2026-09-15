@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/4bafa899298abeb8b8bcfb2e7e5c2c00ecc8846b)** — test: run batch/stream parity against Redpanda and Redis in CI _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/d8c41c807ac798c8ed40aa89b04fa6947c852ac8)** — feat: add event-time replay, Redpanda producer and streaming feature builder _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/e941f73908875ce9d78f5a37e177dde75f8b839b)** — feat: add Redis online feature store with exact batch parity (ADR-004) _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/456935ae6080ef360856a1093a16b817f90e117d)** — docs: add Phase 1 learning logs and update project status _· today_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/5383b9b2d26a262f9e61fd593942722cce6bfc30)** — docs: re-measure Phase 0 learning-log examples on the revised generator _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/395911230ceb6338542bc3171f8f5b146adc13b5)** — fix(serving): answer 503 when the online store is unavailable _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/083d588fb0c305b531539c8d9acc3501ee322d7c)** — perf(features): evaluate all windows of a feature group in one pass _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/ff112b1a8b8918b78274e91d30351cd9710a943a)** — feat(bench): load-test and profile the scoring service _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/0e242658da33b5e285e06cab81e46cf4d99f21fd)** — feat: register models in MLflow with champion and challenger aliases _· today_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/f5d0d577c3c2aabca6febb45e024fec866283a63)** — feat: add FastAPI scoring service with exact offline parity _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
