@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/b7de46744e5401980181131f63d74ee8252dfd54)** — fix(tests): skip the console page tests without the console extra _· 2 days ago_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/62176255c65c440653d949c63f0a34e1351cf146)** — docs: publish scoring latency with the policy engine _· 2 days ago_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/888910e3fc352a717e61aa8e5c360e166c2f20db)** — feat(console): analyst console, decision store and compose demo _· 2 days ago_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/ec554758e8af397cf1e9343a26cf79fc020d7d0e)** — feat(serving): decide approve, review or block in the scoring service _· 2 days ago_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/4ab178ab9b34efed7f18500598f04a4ac15739f4)** — feat(policy): sweep the review budget offline and report it _· 2 days ago_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/b7de46744e5401980181131f63d74ee8252dfd54)** — fix(tests): skip the console page tests without the console extra _· 3 days ago_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/62176255c65c440653d949c63f0a34e1351cf146)** — docs: publish scoring latency with the policy engine _· 3 days ago_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/888910e3fc352a717e61aa8e5c360e166c2f20db)** — feat(console): analyst console, decision store and compose demo _· 3 days ago_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/ec554758e8af397cf1e9343a26cf79fc020d7d0e)** — feat(serving): decide approve, review or block in the scoring service _· 3 days ago_
+- **[bastion](https://github.com/OkayAnshul/bastion/commit/4ab178ab9b34efed7f18500598f04a4ac15739f4)** — feat(policy): sweep the review budget offline and report it _· 3 days ago_
 <!--RECENT_COMMITS:END-->
 
 ---
