@@ -204,8 +204,8 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[how-we-know-the-sky](https://github.com/OkayAnshul/how-we-know-the-sky/commit/06539305babafc72c4cbfe17dc467be53e382a7b)** — Contact links point to the channel's own repository _· today_
-- **[how-we-know-the-sky](https://github.com/OkayAnshul/how-we-know-the-sky/commit/cd399b46e0df20dd6b212ce06068dfb8a54a4ef5)** — How We Know the Sky Studio: home, privacy policy, terms _· today_
+- **[how-we-know-the-sky](https://github.com/OkayAnshul/how-we-know-the-sky/commit/06539305babafc72c4cbfe17dc467be53e382a7b)** — Contact links point to the channel's own repository _· yesterday_
+- **[how-we-know-the-sky](https://github.com/OkayAnshul/how-we-know-the-sky/commit/cd399b46e0df20dd6b212ce06068dfb8a54a4ef5)** — How We Know the Sky Studio: home, privacy policy, terms _· yesterday_
 - **[Anshul-Labs](https://github.com/OkayAnshul/Anshul-Labs/commit/9a1691952197b9b4bc87a4ce92b41f73bbf61a49)** — Add files via upload _· 1 month ago_
 - **[bastion](https://github.com/OkayAnshul/bastion/commit/b7de46744e5401980181131f63d74ee8252dfd54)** — fix(tests): skip the console page tests without the console extra _· 1 month ago_
 - **[bastion](https://github.com/OkayAnshul/bastion/commit/62176255c65c440653d949c63f0a34e1351cf146)** — docs: publish scoring latency with the policy engine _· 1 month ago_
