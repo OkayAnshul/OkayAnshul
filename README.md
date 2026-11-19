@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/0b71de0deadcc01befa80fabe8920152b7abde23)** — docs: the demo track V1.5–V2.0, a project explainer, and attribution as a check _· today_
-- **[how-we-know-the-sky](https://github.com/OkayAnshul/how-we-know-the-sky/commit/06539305babafc72c4cbfe17dc467be53e382a7b)** — Contact links point to the channel's own repository _· 16 days ago_
-- **[how-we-know-the-sky](https://github.com/OkayAnshul/how-we-know-the-sky/commit/cd399b46e0df20dd6b212ce06068dfb8a54a4ef5)** — How We Know the Sky Studio: home, privacy policy, terms _· 16 days ago_
-- **[Anshul-Labs](https://github.com/OkayAnshul/Anshul-Labs/commit/9a1691952197b9b4bc87a4ce92b41f73bbf61a49)** — Add files via upload _· 1 month ago_
-- **[bastion](https://github.com/OkayAnshul/bastion/commit/b7de46744e5401980181131f63d74ee8252dfd54)** — fix(tests): skip the console page tests without the console extra _· 2 months ago_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7e20ee1703f5516e8d785c9bffe4f9193e964f8d)** — test: the daily-limit 429 fixture is now a real capture _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/58dca529a13815ae92de9010c14dcb76845a1592)** — docs: Groq free-tier limits — token-bound at 8K/min and 200K/day _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/06941181710cee33ea1cde1884b70c4e01dbce67)** — docs: free-tier quotas from the account page — flash-lite has 500/day, embeddings a 30K TPM limit, gemini-3.5-flash unknown _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/fcc78a5d016d33738c039f065f04000f2d91a3a5)** — chore: version 1.5.1 _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/f157bc4c3c62ad2bd2c9d29155a7e69080747b8f)** — fix(ci): cap SQLAlchemy below 2.1, and make lint run the format check CI runs _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
