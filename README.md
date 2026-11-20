@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7e20ee1703f5516e8d785c9bffe4f9193e964f8d)** — test: the daily-limit 429 fixture is now a real capture _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/58dca529a13815ae92de9010c14dcb76845a1592)** — docs: Groq free-tier limits — token-bound at 8K/min and 200K/day _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/06941181710cee33ea1cde1884b70c4e01dbce67)** — docs: free-tier quotas from the account page — flash-lite has 500/day, embeddings a 30K TPM limit, gemini-3.5-flash unknown _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/fcc78a5d016d33738c039f065f04000f2d91a3a5)** — chore: version 1.5.1 _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/f157bc4c3c62ad2bd2c9d29155a7e69080747b8f)** — fix(ci): cap SQLAlchemy below 2.1, and make lint run the format check CI runs _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/8e70ce172bc6c72ce1e58bf9f0c6588eb9a0fda4)** — chore: version 1.6.0 _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/cb1e2a875744c8fb11c4ec8218a1128185725731)** — docs: V1.6 done in the roadmap _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/6ea1bf2aab2f372fe0188f1b25b65953966dc66d)** — docs: V1.6 close — interview questions, logs, eval measured under Gemini overload _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/08e5bede410a69a936098342f72ad205853945d4)** — fix: V1.6 — one 503 retry inside the deadline, owner-scoped dead letters, episodes and retrieval, final-attempt reclaim _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/549e53f439f1d227567f311b8f59189db4fafb19)** — docs: ADR-014 — transient provider errors retried once inside the call's deadline; Groq deferred _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
