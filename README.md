@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/0a3ce4270c87e44c247bc2857b60e11b421b04d9)** — chore: version 1.8.0 _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/a2d7b6c15cd0f72f62657de55446126506461c87)** — fix(rag): the corpus fits one day again — exclusions name files; resume evidence and study plan leave it _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/71e24edfae2d413014467c7b117d9d96d8da86b1)** — docs: V1.8 close — interview demo-surface.md, README with the page, API spec, logs _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/35eb81de9431ff45833a649396b5089dfb3d10e0)** — style: sort imports in the browser test _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5036e6e4b118c450144420676638d1f4ee36c616)** — feat(web): the mission-control page — live lane graph, inspector, every section (ADR-017) _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/3b53fc8e6875d86e29f97199dab86e22e6213f09)** — chore: version 1.10.0 _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/28c5033c24ca2b60f56292590bbf15942f2883a4)** — docs: V1.10 close — interview synthesis.md, five live failures and their fixes, current state _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/f924e2709800cd05f5d41b1d5a07a5cd8064c548)** — fix(web): concurrent tasks on one lane stack in sub-rows; Writer in the legend _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/76896e0ba2b35ec84c069019f1f72e6da359faed)** — fix(searxng): spread search across engines that answer here — bing and privacywall _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/fcc2fc2149e2bbec635932652d9c18bc316c08d8)** — fix(writer): the material carries task ids and the sources each task read _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
