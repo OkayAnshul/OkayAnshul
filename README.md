@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/8e70ce172bc6c72ce1e58bf9f0c6588eb9a0fda4)** — chore: version 1.6.0 _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/cb1e2a875744c8fb11c4ec8218a1128185725731)** — docs: V1.6 done in the roadmap _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/6ea1bf2aab2f372fe0188f1b25b65953966dc66d)** — docs: V1.6 close — interview questions, logs, eval measured under Gemini overload _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/08e5bede410a69a936098342f72ad205853945d4)** — fix: V1.6 — one 503 retry inside the deadline, owner-scoped dead letters, episodes and retrieval, final-attempt reclaim _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/549e53f439f1d227567f311b8f59189db4fafb19)** — docs: ADR-014 — transient provider errors retried once inside the call's deadline; Groq deferred _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/0a3ce4270c87e44c247bc2857b60e11b421b04d9)** — chore: version 1.8.0 _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/a2d7b6c15cd0f72f62657de55446126506461c87)** — fix(rag): the corpus fits one day again — exclusions name files; resume evidence and study plan leave it _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/71e24edfae2d413014467c7b117d9d96d8da86b1)** — docs: V1.8 close — interview demo-surface.md, README with the page, API spec, logs _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/35eb81de9431ff45833a649396b5089dfb3d10e0)** — style: sort imports in the browser test _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/5036e6e4b118c450144420676638d1f4ee36c616)** — feat(web): the mission-control page — live lane graph, inspector, every section (ADR-017) _· today_
 <!--RECENT_COMMITS:END-->
 
 ---
