@@ -204,11 +204,11 @@ a phone before it's genuinely too small for the problem.
 ### What I've been committing lately
 
 <!--RECENT_COMMITS:START-->
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/459f8cc6b63f67ddd0a7e314d05ccac984678576)** — chore: version 1.11.0 _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/93c625584e5fa81330960576ce7f8daf41cf9747)** — docs: V1.11 — interview research-quality.md, logs, roadmap, API spec, demo script _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7cf2461998981469ec5292469d2fd0fb2bf5ea2f)** — fix(reader): an overlapping quote is the same finding, kept once _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ccffaa0d2b901b1b7f8301c6b56e787fdda8e071)** — fix(llm): Groq's failed-generation 400 hands on to the next model instead of failing the task _· today_
-- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/83f9f85bef8dc461037dabd5f07d1cfedfc6f25a)** — feat(research): a reader step pulls every finding out of what a task read; Groq answers in strict structured output _· today_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/459f8cc6b63f67ddd0a7e314d05ccac984678576)** — chore: version 1.11.0 _· yesterday_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/93c625584e5fa81330960576ce7f8daf41cf9747)** — docs: V1.11 — interview research-quality.md, logs, roadmap, API spec, demo script _· yesterday_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/7cf2461998981469ec5292469d2fd0fb2bf5ea2f)** — fix(reader): an overlapping quote is the same finding, kept once _· yesterday_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/ccffaa0d2b901b1b7f8301c6b56e787fdda8e071)** — fix(llm): Groq's failed-generation 400 hands on to the next model instead of failing the task _· yesterday_
+- **[AMOS](https://github.com/OkayAnshul/AMOS/commit/83f9f85bef8dc461037dabd5f07d1cfedfc6f25a)** — feat(research): a reader step pulls every finding out of what a task read; Groq answers in strict structured output _· yesterday_
 <!--RECENT_COMMITS:END-->
 
 ---
